@@ -17,3 +17,6 @@ wheels/
 
 # IDE
 .idea/
+
+# Windows/Cygwin crash dumps
+*.stackdump
